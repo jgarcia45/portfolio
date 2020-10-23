@@ -1,11 +1,9 @@
 import React from 'react';
 import './App.css';
 
-import Header from './components/Header';
-
 const App = () => {
   return (
-    <Header />
+    <p>This is just a test to see how my website looks llike.</p>
   );
 };
 
